@@ -1,0 +1,35 @@
+[
+    {
+        "Author_ID": 1,
+        "Author": "J.K. Rowling",
+        "Books": [
+            "The Tales of Beatle The Bard"
+        ]
+    },
+    {
+        "Author_ID": 2,
+        "Author": "Steven King",
+        "Books": [
+            "Fairy Tales",
+            "Carrie"
+        ]
+    },
+    {
+        "Author_ID": 3,
+        "Author": "Christopher Paolini",
+        "Books": [
+            "Eragon",
+            "Eldest",
+            "Brisinger",
+            "Inheritance"
+        ]
+    },
+    {
+        "Author_ID": 4,
+        "Author": "Edgar Allen Poe",
+        "Books": [
+            "Tell Tale Heart",
+            "The Black Cat"
+        ]
+    }
+]

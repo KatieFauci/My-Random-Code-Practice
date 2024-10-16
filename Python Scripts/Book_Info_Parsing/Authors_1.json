@@ -1,0 +1,35 @@
+[
+    {
+        "Author_ID": 1,
+        "Author": "J.K Rowling",
+        "Books": [
+            "Harry Potter and The Sorcerers Stone"
+        ]
+    },
+    {
+        "Author_ID": 2,
+        "Author": "Christopher Paolini",
+        "Books": [
+            "Murtagh",
+            "Eragon",
+            "Brisinger"
+        ]
+    },
+    {
+        "Author_ID": 3,
+        "Author": "Brent Weeks",
+        "Books": [
+            "Night Angel",
+            "The Black Prism"
+        ]
+    },
+    {
+        "Author_ID": 4,
+        "Author": "Steven King",
+        "Books": [
+            "Insomnia",
+            "IT",
+            "The Dome"
+        ]
+    }
+]

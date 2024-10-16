@@ -1,0 +1,204 @@
+[
+    {
+        "Album_Title": "Back in Black",
+        "Artist": "AC/DC",
+        "Songs": [
+            {
+                "Song_Title": "Back in Black",
+                "Runtime": "4:15"
+            },
+            {
+                "Song_Title": "Givin the Dog a Bone",
+                "Runtime": "3:31"
+            },
+            {
+                "Song_Title": "Let Me Put My Love Into You",
+                "Runtime": "4:16"
+            },
+            {
+                "Song_Title": "Hells Bells",
+                "Runtime": "5:12"
+            },
+            {
+                "Song_Title": "You Shook Me All Night Long",
+                "Runtime": "3:30"
+            },
+            {
+                "Song_Title": "Shoot to Thrill",
+                "Runtime": "5:17"
+            },
+            {
+                "Song_Title": "Have a Drink on Me",
+                "Runtime": "3:57"
+            },
+            {
+                "Song_Title": "Shake a Leg",
+                "Runtime": "4:06"
+            },
+            {
+                "Song_Title": "What Do You Do for Money Honey",
+                "Runtime": "3:35"
+            },
+            {
+                "Song_Title": "Rock and Roll Ain't Noise Pollution",
+                "Runtime": "4:15"
+            }
+        ]
+    },
+    {
+        "Album_Title": "Songs from the Big Chair",
+        "Artist": "Tears for Fears",
+        "Songs": [
+            {
+                "Song_Title": "Broken",
+                "Runtime": "2:38"
+            },
+            {
+                "Song_Title": "I Believe",
+                "Runtime": "4:54"
+            },
+            {
+                "Song_Title": "Mothers Talk",
+                "Runtime": "5:09"
+            },
+            {
+                "Song_Title": "The Working Hour",
+                "Runtime": "6:30"
+            },
+            {
+                "Song_Title": "Everybody Wants to Rule the World",
+                "Runtime": "4:11"
+            },
+            {
+                "Song_Title": "Listen",
+                "Runtime": "6:54"
+            },
+            {
+                "Song_Title": "Shout",
+                "Runtime": "6:33"
+            },
+            {
+                "Song_Title": "Head Over Heels",
+                "Runtime": "5:02"
+            }
+        ]
+    },
+    {
+        "Album_Title": "Led Zeppelin",
+        "Artist": "Led Zeppelin",
+        "Songs": [
+            {
+                "Song_Title": "Communication Breakdown",
+                "Runtime": "2:30"
+            },
+            {
+                "Song_Title": "You Shook Me",
+                "Runtime": "6:28"
+            },
+            {
+                "Song_Title": "Good Times Bad Times",
+                "Runtime": "2:46"
+            },
+            {
+                "Song_Title": "Your Time Is Gonna Come",
+                "Runtime": "4:34"
+            },
+            {
+                "Song_Title": "Babe I'm Gonna Leave You",
+                "Runtime": "6:41"
+            },
+            {
+                "Song_Title": "How Many More Times",
+                "Runtime": "8:28"
+            },
+            {
+                "Song_Title": "I Can't Quit You Baby",
+                "Runtime": "4:42"
+            },
+            {
+                "Song_Title": "Black Mountain Side",
+                "Runtime": "2:13"
+            },
+            {
+                "Song_Title": "Dazed and Confused",
+                "Runtime": "6:26"
+            }
+        ]
+    },
+    {
+        "Album_Title": "Running on Empty",
+        "Artist": "Jackson Browne",
+        "Songs": [
+            {
+                "Song_Title": "Rosie",
+                "Runtime": "3:37"
+            },
+            {
+                "Song_Title": "You Love the Thunder",
+                "Runtime": "3:52"
+            },
+            {
+                "Song_Title": "Stay",
+                "Runtime": "3:24"
+            },
+            {
+                "Song_Title": "The Load-Out",
+                "Runtime": "5:38"
+            },
+            {
+                "Song_Title": "Shaky Town",
+                "Runtime": "3:36"
+            },
+            {
+                "Song_Title": "Cocaine",
+                "Runtime": "4:55"
+            },
+            {
+                "Song_Title": "Nothing but Time",
+                "Runtime": "3:05"
+            },
+            {
+                "Song_Title": "Love Needs a Heart",
+                "Runtime": "3:28"
+            }
+        ]
+    },
+    {
+        "Album_Title": "Paranoid",
+        "Artist": "Black Sabbath",
+        "Songs": [
+            {
+                "Song_Title": "Planet Caravan",
+                "Runtime": "4:32"
+            },
+            {
+                "Song_Title": "Fairies Wear Boots",
+                "Runtime": "6:13"
+            },
+            {
+                "Song_Title": "Paranoid",
+                "Runtime": "2:52"
+            },
+            {
+                "Song_Title": "Electric Funeral",
+                "Runtime": "4:52"
+            },
+            {
+                "Song_Title": "Rat Salad",
+                "Runtime": "2:30"
+            },
+            {
+                "Song_Title": "Hand of Doom",
+                "Runtime": "7:08"
+            },
+            {
+                "Song_Title": "War Pigs",
+                "Runtime": "7:55"
+            },
+            {
+                "Song_Title": "Iron Man",
+                "Runtime": "5:55"
+            }
+        ]
+    }
+]

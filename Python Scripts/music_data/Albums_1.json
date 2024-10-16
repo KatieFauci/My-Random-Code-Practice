@@ -1,0 +1,120 @@
+[
+    {
+        "Album_Title": "Songs from the Big Chair",
+        "Artist": "Tears for Fears",
+        "Songs": [
+            {
+                "Song_Title": "Shout",
+                "Runtime": "6:33"
+            },
+            {
+                "Song_Title": "The Working Hour",
+                "Runtime": "6:30"
+            },
+            {
+                "Song_Title": "Everybody Wants to Rule the World",
+                "Runtime": "4:11"
+            },
+            {
+                "Song_Title": "Mothers Talk",
+                "Runtime": "5:09"
+            },
+            {
+                "Song_Title": "I Believe",
+                "Runtime": "4:54"
+            },
+            {
+                "Song_Title": "Broken",
+                "Runtime": "2:38"
+            },
+            {
+                "Song_Title": "Head Over Heels",
+                "Runtime": "5:02"
+            },
+            {
+                "Song_Title": "Listen",
+                "Runtime": "6:54"
+            }
+        ]
+    },
+    {
+        "Album_Title": "Led Zeppelin",
+        "Artist": "Led Zeppelin",
+        "Songs": [
+            {
+                "Song_Title": "Good Times Bad Times",
+                "Runtime": "2:46"
+            },
+            {
+                "Song_Title": "Babe I'm Gonna Leave You",
+                "Runtime": "6:41"
+            },
+            {
+                "Song_Title": "You Shook Me",
+                "Runtime": "6:28"
+            },
+            {
+                "Song_Title": "Dazed and Confused",
+                "Runtime": "6:26"
+            },
+            {
+                "Song_Title": "Your Time Is Gonna Come",
+                "Runtime": "4:34"
+            },
+            {
+                "Song_Title": "Black Mountain Side",
+                "Runtime": "2:13"
+            },
+            {
+                "Song_Title": "Communication Breakdown",
+                "Runtime": "2:30"
+            },
+            {
+                "Song_Title": "I Can't Quit You Baby",
+                "Runtime": "4:42"
+            },
+            {
+                "Song_Title": "How Many More Times",
+                "Runtime": "8:28"
+            }
+        ]
+    },
+    {
+        "Album_Title": "Running on Empty",
+        "Artist": "Jackson Browne",
+        "Songs": [
+            {
+                "Song_Title": "Rosie",
+                "Runtime": "3:37"
+            },
+            {
+                "Song_Title": "You Love the Thunder",
+                "Runtime": "3:52"
+            },
+            {
+                "Song_Title": "Cocaine",
+                "Runtime": "4:55"
+            },
+            {
+                "Song_Title": "Shaky Town",
+                "Runtime": "3:36"
+            },
+            {
+                "Song_Title": "Love Needs a Heart",
+                "Runtime": "3:28"
+            },
+            {
+                "Song_Title": "Nothing but Time",
+                "Runtime": "3:05"
+            },
+            {
+                "Song_Title": "The Load-Out",
+                "Runtime": "5:38"
+            },
+            {
+                "Song_Title": "Stay",
+                "Runtime": "3:24"
+            }
+        ]
+    }
+]

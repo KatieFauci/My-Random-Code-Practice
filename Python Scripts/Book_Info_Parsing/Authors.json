@@ -1,0 +1,260 @@
+[
+    {
+        "Author_ID": 1,
+        "Author": "J.K Rowling",
+        "Books": []
+    },
+    {
+        "Author_ID": 2,
+        "Author": "Christopher Paolini",
+        "Books": [
+            "Murtagh",
+            "Murtagh",
+            "Eragon",
+            "Brisinger"
+        ]
+    },
+    {
+        "Author_ID": 3,
+        "Author": "Christopher Paolini",
+        "Books": [
+            "Eragon"
+        ]
+    },
+    {
+        "Author_ID": 4,
+        "Author": "Christopher Paolini",
+        "Books": [
+            "Brisinger"
+        ]
+    },
+    {
+        "Author_ID": 5,
+        "Author": "Brent Weeks",
+        "Books": [
+            "Night Angel",
+            "Night Angel",
+            "The Black Prism"
+        ]
+    },
+    {
+        "Author_ID": 6,
+        "Author": "Brent Weeks",
+        "Books": [
+            "Night Angel"
+        ]
+    },
+    {
+        "Author_ID": 7,
+        "Author": "Brent Weeks",
+        "Books": [
+            "Night Angel"
+        ]
+    },
+    {
+        "Author_ID": 8,
+        "Author": "Brent Weeks",
+        "Books": [
+            "Night Angel"
+        ]
+    },
+    {
+        "Author_ID": 9,
+        "Author": "Steven King",
+        "Books": [
+            "Insomnia",
+            "Insomnia",
+            "IT",
+            "The Dome"
+        ]
+    },
+    {
+        "Author_ID": 10,
+        "Author": "Steven King",
+        "Books": [
+            "Insomnia"
+        ]
+    },
+    {
+        "Author_ID": 11,
+        "Author": "Steven King",
+        "Books": [
+            "Insomnia"
+        ]
+    },
+    {
+        "Author_ID": 12,
+        "Author": "Steven King",
+        "Books": [
+            "Insomnia"
+        ]
+    },
+    {
+        "Author_ID": 13,
+        "Author": "Steven King",
+        "Books": [
+            "Insomnia"
+        ]
+    },
+    {
+        "Author_ID": 14,
+        "Author": "Steven King",
+        "Books": [
+            "Insomnia"
+        ]
+    },
+    {
+        "Author_ID": 15,
+        "Author": "Steven King",
+        "Books": [
+            "Insomnia"
+        ]
+    },
+    {
+        "Author_ID": 16,
+        "Author": "Steven King",
+        "Books": [
+            "Insomnia"
+        ]
+    },
+    {
+        "Author_ID": 17,
+        "Author": "Steven King",
+        "Books": [
+            "IT"
+        ]
+    },
+    {
+        "Author_ID": 18,
+        "Author": "Steven King",
+        "Books": [
+            "IT"
+        ]
+    },
+    {
+        "Author_ID": 19,
+        "Author": "Steven King",
+        "Books": [
+            "IT"
+        ]
+    },
+    {
+        "Author_ID": 20,
+        "Author": "Steven King",
+        "Books": [
+            "IT"
+        ]
+    },
+    {
+        "Author_ID": 21,
+        "Author": "Steven King",
+        "Books": [
+            "IT"
+        ]
+    },
+    {
+        "Author_ID": 22,
+        "Author": "Steven King",
+        "Books": [
+            "IT"
+        ]
+    },
+    {
+        "Author_ID": 23,
+        "Author": "Steven King",
+        "Books": [
+            "IT"
+        ]
+    },
+    {
+        "Author_ID": 24,
+        "Author": "Steven King",
+        "Books": [
+            "IT"
+        ]
+    },
+    {
+        "Author_ID": 25,
+        "Author": "Steven King",
+        "Books": [
+            "The Dome"
+        ]
+    },
+    {
+        "Author_ID": 26,
+        "Author": "Steven King",
+        "Books": [
+            "The Dome"
+        ]
+    },
+    {
+        "Author_ID": 27,
+        "Author": "Steven King",
+        "Books": [
+            "The Dome"
+        ]
+    },
+    {
+        "Author_ID": 28,
+        "Author": "Steven King",
+        "Books": [
+            "The Dome"
+        ]
+    },
+    {
+        "Author_ID": 29,
+        "Author": "Steven King",
+        "Books": [
+            "The Dome"
+        ]
+    },
+    {
+        "Author_ID": 30,
+        "Author": "Steven King",
+        "Books": [
+            "The Dome"
+        ]
+    },
+    {
+        "Author_ID": 31,
+        "Author": "Steven King",
+        "Books": [
+            "The Dome"
+        ]
+    },
+    {
+        "Author_ID": 32,
+        "Author": "Steven King",
+        "Books": [
+            "The Dome"
+        ]
+    },
+    {
+        "Author_ID": 33,
+        "Author": "Brent Weeks",
+        "Books": [
+            "The Black Prism"
+        ]
+    },
+    {
+        "Author_ID": 34,
+        "Author": "Brent Weeks",
+        "Books": [
+            "The Black Prism"
+        ]
+    },
+    {
+        "Author_ID": 35,
+        "Author": "Brent Weeks",
+        "Books": [
+            "The Black Prism"
+        ]
+    },
+    {
+        "Author_ID": 36,
+        "Author": "Brent Weeks",
+        "Books": [
+            "The Black Prism"
+        ]
+    }
+]

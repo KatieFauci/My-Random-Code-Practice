@@ -1,0 +1,35 @@
+{
+    "recipe_id": 1,
+    "recipe_name": "Chocolate Chip Cookies",
+    "description": "Classic chocolate chip cookies with a crispy edge and chewy center.",
+    "servings": 24,
+    "preparation_time": 15,
+    "cooking_time": 12,
+    "ingredients": [
+        {
+            "ingredient_name": "Butter",
+            "quantity": "1 cup"
+        },
+        {
+            "ingredient_name": "Sugar",
+            "quantity": "1 cup"
+        },
+        {
+            "ingredient_name": "Brown Sugar",
+            "quantity": "1/2 cup"
+        },
+        {
+            "ingredient_name": "Chocolate Chips",
+            "quantity": "2 cups"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 350°F (175°C).",
+        "Cream together butter and sugars until light and fluffy.",
+        "Add eggs one at a time, then stir in vanilla.",
+        "Mix flour, baking soda, and salt; stir into butter mixture until blended.",
+        "Fold in chocolate chips.",
+        "Drop by spoonfuls onto ungreased baking sheet.",
+        "Bake for 10-12 minutes or until edges are golden."
+    ]
+}

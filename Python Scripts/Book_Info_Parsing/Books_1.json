@@ -1,0 +1,47 @@
+[
+    {
+        "Book_ID": 1,
+        "Title": "Harry Potter and The Sorcerers Stone",
+        "Author": "J.K Rowling"
+    },
+    {
+        "Book_ID": 2,
+        "Title": "Murtagh",
+        "Author": "Christopher Paolini"
+    },
+    {
+        "Book_ID": 3,
+        "Title": "Eragon",
+        "Author": "Christopher Paolini"
+    },
+    {
+        "Book_ID": 4,
+        "Title": "Brisinger",
+        "Author": "Christopher Paolini"
+    },
+    {
+        "Book_ID": 5,
+        "Title": "Night Angel",
+        "Author": "Brent Weeks"
+    },
+    {
+        "Book_ID": 6,
+        "Title": "Insomnia",
+        "Author": "Steven King"
+    },
+    {
+        "Book_ID": 7,
+        "Title": "IT",
+        "Author": "Steven King"
+    },
+    {
+        "Book_ID": 8,
+        "Title": "The Dome",
+        "Author": "Steven King"
+    },
+    {
+        "Book_ID": 9,
+        "Title": "The Black Prism",
+        "Author": "Brent Weeks"
+    }
+]

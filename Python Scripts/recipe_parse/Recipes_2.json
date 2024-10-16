@@ -1,0 +1,191 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Classic Lasagna",
+        "description": "A hearty and flavorful classic lasagna made with layers of pasta, meat, cheese, and marinara sauce.",
+        "servings": 8,
+        "preparation_time": 30,
+        "cooking_time": 45,
+        "ingredients": [
+            {
+                "ingredient_name": "Lasagna Noodles",
+                "quantity": "12 sheets"
+            },
+            {
+                "ingredient_name": "Ground Beef",
+                "quantity": "1 pound"
+            },
+            {
+                "ingredient_name": "Marinara Sauce",
+                "quantity": "4 cups"
+            },
+            {
+                "ingredient_name": "Ricotta Cheese",
+                "quantity": "15 ounces"
+            },
+            {
+                "ingredient_name": "Mozzarella Cheese",
+                "quantity": "2 cups, shredded"
+            },
+            {
+                "ingredient_name": "Parmesan Cheese",
+                "quantity": "1 cup, grated"
+            },
+            {
+                "ingredient_name": "Egg",
+                "quantity": "1"
+            },
+            {
+                "ingredient_name": "Garlic",
+                "quantity": "2 cloves, minced"
+            },
+            {
+                "ingredient_name": "Olive Oil",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "ingredient_name": "Salt",
+                "quantity": "to taste"
+            },
+            {
+                "ingredient_name": "Black Pepper",
+                "quantity": "to taste"
+            },
+            {
+                "ingredient_name": "Italian Seasoning",
+                "quantity": "1 teaspoon"
+            }
+        ],
+        "instructions": [
+            "Preheat oven to 375°F (190°C).",
+            "In a large skillet, heat olive oil over medium heat. Add minced garlic and cook until fragrant.",
+            "Add ground beef, season with salt, pepper, and Italian seasoning; cook until browned.",
+            "Stir in marinara sauce and let simmer for about 10 minutes.",
+            "In a bowl, combine ricotta cheese, egg, and a pinch of salt.",
+            "Spread a layer of meat sauce on the bottom of a 9x13 inch baking dish.",
+            "Layer 4 lasagna noodles over the sauce, then spread half of the ricotta mixture on top.",
+            "Add a layer of mozzarella cheese and more meat sauce.",
+            "Repeat the layers (noodles, ricotta, mozzarella, meat sauce) two more times.",
+            "Finish with a layer of noodles, remaining meat sauce, and top with mozzarella and parmesan cheese.",
+            "Cover with aluminum foil and bake for 25 minutes.",
+            "Remove foil and bake for an additional 15 minutes, or until cheese is golden and bubbly.",
+            "Let stand for 10 minutes before slicing."
+        ]
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Spaghetti Carbonara",
+        "description": "A creamy and indulgent Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "servings": 4,
+        "preparation_time": 10,
+        "cooking_time": 20,
+        "ingredients": [
+            {
+                "ingredient_name": "Spaghetti",
+                "quantity": "12 ounces"
+            },
+            {
+                "ingredient_name": "Pancetta or Guanciale",
+                "quantity": "4 ounces, diced"
+            },
+            {
+                "ingredient_name": "Eggs",
+                "quantity": "2 large"
+            },
+            {
+                "ingredient_name": "Egg Yolks",
+                "quantity": "2"
+            },
+            {
+                "ingredient_name": "Parmesan Cheese",
+                "quantity": "1 cup, grated"
+            },
+            {
+                "ingredient_name": "Black Pepper",
+                "quantity": "to taste"
+            },
+            {
+                "ingredient_name": "Salt",
+                "quantity": "to taste"
+            },
+            {
+                "ingredient_name": "Fresh Parsley",
+                "quantity": "for garnish (optional)"
+            }
+        ],
+        "instructions": [
+            "Bring a large pot of salted water to a boil. Cook spaghetti according to package instructions until al dente.",
+            "While the pasta cooks, heat a large skillet over medium heat and add diced pancetta. Cook until crispy, about 5-7 minutes.",
+            "In a bowl, whisk together eggs, egg yolks, and grated Parmesan cheese until well combined.",
+            "Once the pasta is cooked, reserve 1 cup of the pasta water, then drain the spaghetti.",
+            "Quickly add the hot spaghetti to the skillet with pancetta. Remove from heat.",
+            "Pour the egg and cheese mixture over the pasta, tossing quickly to combine. The heat from the pasta will cook the eggs gently, creating a creamy sauce.",
+            "If the sauce is too thick, add reserved pasta water a little at a time until desired consistency is reached.",
+            "Season with black pepper and salt to taste.",
+            "Serve immediately, garnished with additional Parmesan and chopped parsley, if desired."
+        ]
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Vegetable Stir-Fry",
+        "description": "A colorful and nutritious vegetable stir-fry, perfect for a quick and healthy meal.",
+        "servings": 4,
+        "preparation_time": 15,
+        "cooking_time": 10,
+        "ingredients": [
+            {
+                "ingredient_name": "Broccoli",
+                "quantity": "2 cups, chopped"
+            },
+            {
+                "ingredient_name": "Bell Pepper",
+                "quantity": "1 large, sliced"
+            },
+            {
+                "ingredient_name": "Carrot",
+                "quantity": "1 large, sliced"
+            },
+            {
+                "ingredient_name": "Snow Peas",
+                "quantity": "1 cup"
+            },
+            {
+                "ingredient_name": "Onion",
+                "quantity": "1 medium, sliced"
+            },
+            {
+                "ingredient_name": "Garlic",
+                "quantity": "3 cloves, minced"
+            },
+            {
+                "ingredient_name": "Ginger",
+                "quantity": "1 tablespoon, grated"
+            },
+            {
+                "ingredient_name": "Soy Sauce",
+                "quantity": "3 tablespoons"
+            },
+            {
+                "ingredient_name": "Sesame Oil",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "ingredient_name": "Olive Oil",
+                "quantity": "1 tablespoon"
+            },
+            {
+                "ingredient_name": "Sesame Seeds",
+                "quantity": "for garnish (optional)"
+            }
+        ],
+        "instructions": [
+            "Heat olive oil in a large skillet or wok over medium-high heat.",
+            "Add minced garlic and grated ginger; sauté for 30 seconds until fragrant.",
+            "Add sliced onion and cook for 2 minutes until softened.",
+            "Add broccoli, bell pepper, carrot, and snow peas; stir-fry for about 5-7 minutes, or until vegetables are tender-crisp.",
+            "Pour in soy sauce and sesame oil; toss to coat the vegetables evenly.",
+            "Cook for another minute to heat through.",
+            "Serve hot, garnished with sesame seeds if desired."
+        ]
+    }    
+]

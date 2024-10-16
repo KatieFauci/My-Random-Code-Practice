@@ -1,0 +1,47 @@
+[
+    {
+        "Book_ID": 1,
+        "Title": "The Tales of Beatle The Bard",
+        "Author": "J.K. Rowling"
+    },
+    {
+        "Book_ID": 2,
+        "Title": "Fairy Tales",
+        "Author": "Steven King"
+    },
+    {
+        "Book_ID": 3,
+        "Title": "Eragon",
+        "Author": "Christopher Paolini"
+    },
+    {
+        "Book_ID": 4,
+        "Title": "Carrie",
+        "Author": "Steven King"
+    },
+    {
+        "Book_ID": 5,
+        "Title": "Eldest",
+        "Author": "Christopher Paolini"
+    },
+    {
+        "Book_ID": 6,
+        "Title": "Brisinger",
+        "Author": "Christopher Paolini"
+    },
+    {
+        "Book_ID": 7,
+        "Title": "Tell Tale Heart",
+        "Author": "Edgar Allen Poe"
+    },
+    {
+        "Book_ID": 8,
+        "Title": "Inheritance",
+        "Author": "Christopher Paolini"
+    },
+    {
+        "Book_ID": 9,
+        "Title": "The Black Cat",
+        "Author": "Edgar Allen Poe"
+    }
+]
